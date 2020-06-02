@@ -20,13 +20,13 @@ This API is part of a basic and simple project divided into two parts.
  <p>Make sure your have <a href="https://nodejs.org/en/download/">Node.js</a> installed on your computer</p>   
 <p>Clone the repo:</p>
 
-`git clone https://github.com/msawaguchi/nodejs-ts-desafio1-bootcamp.git`
+`git clone https://github.com/msawaguchi/nodejs-ts-desafio2-bootcamp.git`
 
 <p>You might have a database called 'gostack_desafio06'. With the database created, run the migration:</p>
 
 `yarn typeorm migration:run`
 
-After entering inside the project directory, start server:
+After entering inside the project directory, start the server:
 
 `yarn dev:server`
 
